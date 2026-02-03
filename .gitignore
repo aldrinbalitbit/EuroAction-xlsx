@@ -1,0 +1,41 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pip dependency caches
+pip-log.txt
+pip-delete-this-directory.txt
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyenv and local environment settings
+.python-version
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Optional: local configs or secrets
+*.env
+.env.*
+
+# Tracks
+*/*/tracks
