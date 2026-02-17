@@ -30,7 +30,7 @@ A radio station that plays all genres from Europe.
 9. Gert Timmermann – Nur Nicht Weinen Signorina (1962)
 10. Tek Houkes – De herder (1979)
 11. Caterina Valente – Wo Meine Sonne Scheint (1957)
-12. Νάνα Μούσχουρη – Το Φεγγαράκι (1958) / Joe & Erik – Oh bitte, tu das noch einmal (1967)
+12. Νάνα Μούσχουρη – Το Φεγγαράκι (1958)
 
 ### Track 3
 1. Lys Assia – Was Kann Schöner Sein (1956)
@@ -63,11 +63,11 @@ A radio station that plays all genres from Europe.
 ### Track 5
 1. Wilma – Aan 'n Grote Luchtballon (1970)
 2. Liesbeth List - Zonder Liefde (1966)
-3. Annelies de Graaf – Kom Bij Mij! (1968) / Wencke Myhre – Komm Allein (1967)
+3. Annelies de Graaf – Kom Bij Mij! (1968)
 4. Connie Francis – Meine Reise Ist Zu Ende (1966)
 5. Liane Augustin – Die ganze Welt braucht Liebe (1958)
-6. Rena Rolska – Sluchaj (1967) / Nana Mouskouri – Ton Adieu (1962)
-7. Kate Gulbrandsen	– Mitt liv (1987)
+6. Rena Rolska – Słuchaj (1967)
+7. Nana Mouskouri – Ton Adieu (1962)
 8. Teddy Scholten – 'n Beetje (1959)
 9. Dalida – Gondolier (1958)
 10. Patricia Bredin – All (1957)
@@ -100,7 +100,7 @@ A radio station that plays all genres from Europe.
 9. Peggy March – Romeo Und Julia (1967)
 10. Wencke Myhre – Flower-Power-Kleid (1968)
 11. Britt Kersten – Einmal Ist Keinmal (1965)
-12. Dschinghis Khan – Moskau (1979) / Rena Rolska – Sluchaj (1967)
+12. Dschinghis Khan – Moskau (1979)
 
 ### Track 8
 1. Die Peanuts Mit Orchester – Golden Town (1967)

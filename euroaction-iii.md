@@ -1,6 +1,6 @@
 # EuroAction
 
-Hosted by ? and plays all genres from Europe.
+A radio station and plays all genres from Europe.
 
 ## Tracklist
 
@@ -16,7 +16,7 @@ Hosted by ? and plays all genres from Europe.
 1. Dennie Christian – Autokino Samstags um halb zehn (1978)
 2. Jeanette – Todo Es Nuevo (1977)
 3. Wilma – Ik Heb 'n Vraag  (1971)
-4. Henk Wijngaard – ? / Jouw flat (1990)
+4. Henk Wijngaard – Jouw flat (1990)
 5. Ina & Michael – Frech Zum Verlieben (1971)
 6. Massiel – Sola En Libertad (1984)
 
@@ -38,11 +38,11 @@ Hosted by ? and plays all genres from Europe.
 
 ### Track 5
 1. Henk Wijngaard – Rosie (1993)
-2. Vanessa Chintor – Like The Wind (1999) / Maitre Pierre – Radio Royal (1987)
+2. Vanessa Chintor – Like The Wind (1999)
 3. Jeanette – Reluz (1983)
 4. Charlene – Engel In Mijn Droom (2001)
 5. Maria – Nemen en Geven (1982)
-6. Dalida – J'Aime (1983)
+6. Dalida – Pour Te Dire Je T'aime (1984)
 
 ### Track 6
 1. Try Out – Fryslân: poerbêst (1993)
@@ -74,7 +74,7 @@ Hosted by ? and plays all genres from Europe.
 3. Mieke – Mooi Is Het Leven (1987)
 4. Gigliola Cinquetti – Sì (1974)
 5. Sestre – Samo ljubezen (2002)
-6. Peter Schiling – Major Tom (1982)
+6. Peter Schiling – Major Tom (Völlig Losgelöst) (1982)
 
 ### Track 10
 1. Henk Wijngaard – Lieve An (2001)
