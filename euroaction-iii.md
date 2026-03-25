@@ -74,7 +74,7 @@ A radio station and plays all genres from Europe.
 3. Mieke – Mooi Is Het Leven (1987)
 4. Gigliola Cinquetti – Sì (1974)
 5. Sestre – Samo ljubezen (2002)
-6. Peter Schiling – Major Tom (Völlig Losgelöst) (1982)
+6. Wencke Myhre – Laß Mein Knie, Joe (1978)
 
 ### Track 10
 1. Henk Wijngaard – Lieve An (2001)
