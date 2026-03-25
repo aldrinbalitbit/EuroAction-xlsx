@@ -70,7 +70,7 @@ A radio station that plays all genres from Europe.
 7. Nana Mouskouri – Ton Adieu (1962)
 8. Teddy Scholten – 'n Beetje (1959)
 9. Dalida – Gondolier (1958)
-10. Kate (1987)
+10. Kate Gulbrandsen – Mitt liv (1987)
 11. Franca Raimondi – Aprite le finestre (1956)
 12. Nunzio Gallo – Corde della mia chitarra (1957)
 
