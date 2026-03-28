@@ -71,7 +71,7 @@ A radio station and plays all genres from Europe.
 8. Peggy March – Einmal Verliebt - Immer Verliebt (1971) 
 9. Vicky Leandros –	Du Und Ich Und Der Himmel (1974)
 10. Fazla – Sva bol svijeta (1993)
-11. Dalida – La Consultation (1974)
+11. Dalida – Manuel (1974)
 12. Irena Santor – Ada, To Nie Wypada (1963)
 
 ### Track 6
