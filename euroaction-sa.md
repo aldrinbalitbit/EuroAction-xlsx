@@ -56,7 +56,7 @@ A radio station and plays all genres from Europe.
 7. Alexandra Rubin – Jedes Mädchen braucht Liebe (1975)
 8. Marietje – Maar 'S Avonds in de Achtbaan (1984)
 9. Ad van Hoorn – De bajesklant (1979)
-10. José Guardiola – Algo prodigioso (1963)
+10. Vader Abraham & Ria Valk – Dan Is Er Nog Hoop (1987)
 11. Nana Mouskouri – Il Tuo Sorriso Nella Notte (1966)
 12. Cheops – Tovenaar (1968)
 
