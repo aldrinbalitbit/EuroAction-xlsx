@@ -22,8 +22,8 @@ A radio station and plays all genres from Europe.
 
 ### Track 3
 1. Heidi – Een Reisje Naar Rio (1973)
-2. Maria – Ik Ging Van Je Heen (1981)
-3. Frans Bauer – Als Sterren Aan De Hemel Staan (1994)
+2. Frans Bauer – Als Sterren Aan De Hemel Staan (1994)
+3. Maria – Ik Ging Van Je Heen (1981)
 4. Try Out – De allerlaatste (1993)
 5. Jeanette – El muchacho de los ojos tristes (1982)
 6. Siw Inger – San Antonio Highway (1979)
@@ -48,7 +48,7 @@ A radio station and plays all genres from Europe.
 1. Try Out – Fryslân: poerbêst (1993)
 2. Gigliola Cinquetti – Accarezzame (1972)
 3. Frans Bauer – Op Zoek Naar Jouw Liefde (1998)
-4. Bianca – Vaarwel (1984)
+4. Boney M. – Rasputin (1978)
 5. Wilma – Als Ik Geld Had, Kocht Ik Een Eiland In De Zon (1971)
 6. Vanna – Strings of My Heart (2001)
 
